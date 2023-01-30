@@ -1,6 +1,6 @@
 # Push changes in Azure DevOps Repo & GitHub
 ```
-git remote add origin https://p-moosavinezhad@dev.azure.com/p-moosavinezhad/az-iac/_git/enterprise-aks
+git remote add origin https://p-moosavinezhad@dev.azure.com/p-moosavinezhad/az-iac/_git/enterprise-acr
 
 git remote set-url --add --push origin https://github.com/ParisaMousavi/enterprise-acr.git
 
